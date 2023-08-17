@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cvfs+c8BHbWxhdwg4dL5GMAV0/t6pdegfzrnTu8UYXz86CCUQ84TfyZvA17v5lbm8dRDUmY3iEGCjglwD2knFg==",
+  "dgSpecHash": "PPSnBP/W8sgyA2gqhG3nfBk44ALzUUmJ1mHf5OOXhID5X0FFOK3mN/G8ecABLEHU92BNNoJX0YLFzuVVcyMG3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonander.ruiz\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
@@ -84,7 +84,7 @@
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.10\\microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512",
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.10\\microsoft.entityframeworkcore.sqlserver.7.0.10.nupkg.sha512",
-    "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.21\\microsoft.entityframeworkcore.tools.6.0.21.nupkg.sha512",
+    "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.10\\microsoft.entityframeworkcore.tools.7.0.10.nupkg.sha512",
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\jonander.ruiz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
