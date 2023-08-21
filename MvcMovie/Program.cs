@@ -12,6 +12,8 @@ builder.Services.AddDbContext<MvcMovieContext>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
